@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "5.1.5-1.fc31"
     },
-    "CreationDate":  "2020-02-20T13:23:54+01:00"
+    "CreationDate":  "2020-02-21T03:52:29+01:00"
   },
   "GeneralSpecs":
   {
@@ -19,8 +19,8 @@
     },
     "Size":
     {
-      "X": 53.325,
-      "Y": 71.105
+      "X": 50.850,
+      "Y": 68.630
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
@@ -47,6 +47,11 @@
       "FilePolarity":  "Positive"
     },
     {
+      "Path":  "board-2-F_SilkS.gbr",
+      "FileFunction":  "Legend,Top",
+      "FilePolarity":  "Positive"
+    },
+    {
       "Path":  "board-2-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
@@ -59,6 +64,10 @@
   ],
   "MaterialStackup":
   [
+    {
+      "Type":  "Legend",
+      "Notes":  "Layer F.SilkS"
+    },
     {
       "Type":  "Copper",
       "Notes":  "Layer F.Cu"
