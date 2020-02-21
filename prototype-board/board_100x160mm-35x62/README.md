@@ -1,4 +1,4 @@
-# Płytki prototypowe - 19x23_2.54mm z otworami montażowymi
+# Płytki prototypowe - 35x62_2.54mm z otworami montażowymi
 electronics workshop
 
 ![pcb-1](/prototype-board/board_100x160mm-35x62/pcb.png)
